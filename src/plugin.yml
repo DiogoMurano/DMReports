@@ -1,0 +1,7 @@
+name: DMReport
+author: DiogoMurano
+main: net.diogomurano.reports.ReportsMain
+version: 1.0.0
+commands:
+  report:
+  reports:
